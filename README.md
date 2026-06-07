@@ -9,7 +9,7 @@ A PyTorch implementation of a **Progressively Growing GAN (PGAN)** that trains a
 **Bhupinder**  
 AI Engineer  
 B.Tech CSE — Guru Nanak Dev University, Amritsar
-[*My Website*](https://bhupinder-ai.vercel.app/)
+## [*My Website*](https://bhupinder-ai.vercel.app/)
 ---
 
 ## How It Works
